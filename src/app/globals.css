@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-basalt:    #2D3436;
+  --color-tuff:      #636E72;
+  --color-olivine:   #4A7C59;
+  --color-limestone: #F5F1EB;
+  --color-kowhai:    #D4A843;
+  --color-white:     #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2D3436;
+  background: #FFFFFF;
+  font-size: 16px;
+  line-height: 1.6;
+}
