@@ -1,11 +1,11 @@
 const cards = [
   {
     title: 'Construction Governance',
-    body: 'AI-powered project advisory that helps owners track variations, manage baselines, and maintain governance discipline from first contract to final account. Our systems are designed for the contract standards that matter: FIDIC, NZS 3910, and NEC4.',
+    body: 'AI-powered project advisory that helps principals and owners track variations, manage baselines, and maintain governance discipline from first contract to final account. Our systems are designed for the contract standards that matter: FIDIC, NZS 3910, and NEC4.'
   },
   {
     title: 'Infrastructure Evaluation',
-    body: 'Quantifying value left on the table in infrastructure project delivery. We apply Foregone Benefits Methodology to help decision-makers identify and recover measurable value from how projects are designed, procured, phased, and managed.',
+    body: 'Quantifying value left on the table in infrastructure project delivery. We apply the Foregone Benefits Methodology to help decision-makers identify and recover measurable value from how projects are designed, procured, phased, and managed.',
   },
   {
     title: 'Advisory and Research',
